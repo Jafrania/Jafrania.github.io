@@ -1,0 +1,30 @@
+a{
+	color:gray;
+	font-weight: bold;
+	margin: 15px;
+	font-style: italic;	
+}
+h1{
+	color:gray;
+	font-size: 48px;
+	text-align: center;
+	font-style: italic;
+
+}
+img{
+	width: 400px;
+	display:block;
+	margin: auto;
+}
+h2{
+	color:gray;
+	font-size: 35px;
+	font-style: italic;
+}
+p{
+	color:black;
+	font-size: 15px;
+}
+
+
+
